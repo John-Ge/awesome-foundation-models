@@ -59,6 +59,7 @@ Contributions are welcome!
 8. Universal Instance Perception as Object Discovery and Retrieval. [[paper]](https://arxiv.org/abs/2303.06674) [[code]](https://github.com/MasterBin-IIAU/UNINEXT)
 9. OneFormer: One Transformer to Rule Universal Image Segmentation. [[paper]](https://arxiv.org/abs/2211.06220) [[code]](https://github.com/SHI-Labs/OneFormer)
 10. A Simple Framework for Open-Vocabulary Segmentation and Detection. [[paper]](https://arxiv.org/pdf/2303.08131.pdf) [[code]](https://github.com/IDEA-Research/OpenSeeD)
+11. FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation. [[paper]](https://arxiv.org/pdf/2303.17225.pdf) [[code]](https://arxiv.org/pdf/2303.17225.pdf)
 
 
 
