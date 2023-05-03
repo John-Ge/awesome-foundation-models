@@ -15,6 +15,8 @@ We collect some representative foundation models in computer vision and multi-mo
 
 1. EVA: Exploring the Limits of Masked Visual Representation Learning at Scale. [[paper]]() [[code]]()
 2. Scaling Vision Transformers. [[paper]]() [[code]]()
+3. Segment Anything. [[paper]](https://ai.facebook.com/research/publications/segment-anything/) [[code]](https://github.com/facebookresearch/segment-anything) [[project]](https://segment-anything.com/)
+4. 
 
 ## Generation
 1. Deep Floyd -IF [[project]](https://deepfloyd.ai/deepfloyd-if)
@@ -26,7 +28,14 @@ We collect some representative foundation models in computer vision and multi-mo
 # Multi-Modal Learning
 
 ## Pretraining
-1. 
+1. mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality [[paper]](https://arxiv.org/abs/2304.14178) [[code]](https://arxiv.org/abs/2304.14178) [[dome]](https://arxiv.org/abs/2304.14178) [[blog]](https://zhuanlan.zhihu.com/p/625631667)
+2. BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models [[code]](https://link.zhihu.com/?target=https%3A//github.com/salesforce/LAVIS/tree/main/projects/blip2)
+3. Language Is Not All You Need: Aligning Perception with Language Models [[code]](https://link.zhihu.com/?target=https%3A//github.com/microsoft/unilm)
+4. Versatile Diffusion: Text, Images and Variations All in One Diffusion Model [[code]](https://link.zhihu.com/?target=https%3A//github.com/SHI-Labs/Versatile-Diffusion)
+5. MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models. [[paper]](http://arxiv.org/abs/2304.10592) [[code]](https://minigpt-4.github.io/)
+6. LLaVA: Large Language and Vision Assistant. [[paper]](https://arxiv.org/abs/2304.08485) [[project]](https://llava-vl.github.io/) [[blog]](https://zhuanlan.zhihu.com/p/622907299)
+
+
 
 ## GPT Projects
 
@@ -35,3 +44,4 @@ We collect some representative foundation models in computer vision and multi-mo
 2. Stable Vicuna [[project]](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot)
 3. MOSS [[code]](git@github.com:John-Ge/foundation-models.git)
 4. Luotuo [[code]](https://github.com/LC1332/Luotuo-Chinese-LLM)
+5. Linly [[code]](https://github.com/CVI-SZU/Linly) [[blog]](https://zhuanlan.zhihu.com/p/625786369)
