@@ -51,7 +51,7 @@ Contributions are welcome!
 
 1. Uni-Perceiver: Pre-training Unified Architecture for Generic Perception for Zero-shot and Few-shot Tasks
 2. Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks
-3. SegGPT: Segmenting Everything In Context. [[paper]](SegGPT: Segmenting Everything In Context) [[code]](https://github.com/baaivision/painter)
+3. SegGPT: Segmenting Everything In Context. [[paper]](https://arxiv.org/abs/2304.03284) [[code]](https://github.com/baaivision/painter)
 4. Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection. [[paper]](https://arxiv.org/abs/2303.05499) [[code]](https://github.com/idea-research/groundingdino)
 5. Segment Everything Everywhere All at Once. [[paper]](https://arxiv.org/abs/2304.06718) [[paper]](https://github.com/ux-decoder/segment-everything-everywhere-all-at-once)
 6. X-Decoder: Generalized Decoding for Pixel, Image, and Language. [[paper]](https://arxiv.org/pdf/2212.11270.pdf) [[code]](https://github.com/microsoft/X-Decoder)
@@ -92,7 +92,7 @@ Contributions are welcome!
 1. MOSS [[code]](https://github.com/OpenLMLab/MOSS)
 2. Luotuo [[code]](https://github.com/LC1332/Luotuo-Chinese-LLM)
 3. Linly [[code]](https://github.com/CVI-SZU/Linly) [[blog]](https://zhuanlan.zhihu.com/p/625786369)
-4. FastChat-T5
+4. FastChat-T5. [[code]](https://github.com/lm-sys/FastChat)
 5. ChatGLM-6B. [[code]](https://github.com/THUDM/ChatGLM-6B)
 6. Chat-RWKV. [[code]](https://github.com/BlinkDL/RWKV-LM)
 7. baize. [[paper]](https://arxiv.org/abs/2304.01196) [[code]](https://github.com/BlinkDL/RWKV-LM)
