@@ -1,6 +1,6 @@
 # awesome-foundation-model-papers
 
-![](https://img.shields.io/badge/Papercount-5-green)
+![](https://img.shields.io/badge/Papercount-15-green)
 
 
 A library of foundation models in computer vision and multi-modal learning. 
