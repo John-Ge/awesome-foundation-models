@@ -1,6 +1,6 @@
 # Awesome-Foundation-Model-Papers
 
-![](https://img.shields.io/badge/Papercount-37-green)
+![](https://img.shields.io/badge/Papercount-49-green)
 
 
 A library of foundation models in computer vision, natural language processing and multi-modal learning. This repo mainly include pretraining methods, foundation models, fine-tuning methods and some projects *etc.*
@@ -25,7 +25,7 @@ Contributions are welcome!
     - [Chinese Support](#chinese-support)
 - [Multi-Modal Learning](#multi-modal-learning)
   - [Pretraining](#pretraining-2)
-  - [Vision Chat Models](#vision-chat-models)
+  - [Visual Chat Models](#visual-chat-models)
 - [Citation](#citation)
 
 
@@ -34,8 +34,9 @@ Contributions are welcome!
 ## Pretraining
 
 1. EVA: Visual Representation Fantasies from BAAI. [[01-paper]](https://arxiv.org/abs/2211.07636) [[02-paper]](https://arxiv.org/abs/2303.11331) [[code]](https://github.com/baaivision/EVA)
-2. Scaling Vision Transformers. [[paper]]() [[code]]()
-3. Segment Anything. [[paper]](https://ai.facebook.com/research/publications/segment-anything/) [[code]](https://github.com/facebookresearch/segment-anything) [[project]](https://segment-anything.com/)
+2. Scaling Vision Transformers. [[paper]](https://arxiv.org/abs/2302.05442) [[code]](https://github.com/google-research/big_vision)
+3. Scaling Vision Transformers to 22 Billion Parameters. [[paper]](https://arxiv.org/abs/2302.05442)
+4. Segment Anything. [[paper]](https://ai.facebook.com/research/publications/segment-anything/) [[code]](https://github.com/facebookresearch/segment-anything) [[project]](https://segment-anything.com/)
 
 
 ## Generation
@@ -56,6 +57,9 @@ Contributions are welcome!
 6. X-Decoder: Generalized Decoding for Pixel, Image, and Language. [[paper]](https://arxiv.org/pdf/2212.11270.pdf) [[code]](https://github.com/microsoft/X-Decoder)
 7. Unicorn 🦄 : Towards Grand Unification of Object Tracking. [[paper]](https://arxiv.org/abs/2207.07078) [[code]](https://github.com/MasterBin-IIAU/Unicorn)
 8. Universal Instance Perception as Object Discovery and Retrieval. [[paper]](https://arxiv.org/abs/2303.06674) [[code]](https://github.com/MasterBin-IIAU/UNINEXT)
+9. OneFormer: One Transformer to Rule Universal Image Segmentation. [[paper]](https://arxiv.org/abs/2211.06220) [[code]](https://github.com/SHI-Labs/OneFormer)
+10. A Simple Framework for Open-Vocabulary Segmentation and Detection. [[paper]](https://arxiv.org/pdf/2303.08131.pdf) [[code]](https://github.com/IDEA-Research/OpenSeeD)
+
 
 
 
@@ -63,7 +67,12 @@ Contributions are welcome!
 
 ## Pretraining
 
-1. GPT-3: Language Models are Few-Shot Learners [[paper]](https://arxiv.org/pdf/2005.14165.pdf)
+1. GPT: Improving language understanding by generative pre-training.
+2. GPT-2: Language Models are Unsupervised Multitask Learners. [[paper]](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
+3. GPT-3: Language Models are Few-Shot Learners [[paper]](https://arxiv.org/pdf/2005.14165.pdf)
+4. GPT-4. [[paper]](https://arxiv.org/abs/2303.08774)
+5. LLaMA: Open and Efficient Foundation Language Models. [[paper]](https://arxiv.org/abs/2302.13971v1) [[code]](https://github.com/facebookresearch/llama)
+6. Pythia: Interpreting Autoregressive Transformers Across Time and Scale. [[paper]](https://arxiv.org/pdf/2304.01373.pdf) [[code]](https://github.com/EleutherAI/pythia)
 
 ## Instruction Tuning
 1. InstructGPT: Training language models to follow instructions with human feedback. [[paper]](https://arxiv.org/pdf/2203.02155.pdf)
@@ -91,14 +100,17 @@ Contributions are welcome!
 # Multi-Modal Learning
 
 ## Pretraining
-1. mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality [[paper]](https://arxiv.org/abs/2304.14178) [[code]](https://arxiv.org/abs/2304.14178) [[dome]](https://arxiv.org/abs/2304.14178) [[blog]](https://zhuanlan.zhihu.com/p/625631667)
-2. BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models [[code]](https://link.zhihu.com/?target=https%3A//github.com/salesforce/LAVIS/tree/main/projects/blip2)
-3. Language Is Not All You Need: Aligning Perception with Language Models [[code]](https://link.zhihu.com/?target=https%3A//github.com/microsoft/unilm)
-4. Versatile Diffusion: Text, Images and Variations All in One Diffusion Model [[code]](https://link.zhihu.com/?target=https%3A//github.com/SHI-Labs/Versatile-Diffusion)
-5. LLaVA: Large Language and Vision Assistant. [[paper]](https://arxiv.org/abs/2304.08485) [[project]](https://llava-vl.github.io/) [[blog]](https://zhuanlan.zhihu.com/p/622907299)
+1. Learning Transferable Visual Models From Natural Language Supervision. [[paper]](https://arxiv.org/abs/2103.00020) [[code]](https://github.com/OpenAI/CLIP)
+2. Align before Fuse: Vision and Language Representation Learning with Momentum Distillation. [[paper]](https://arxiv.org/abs/2107.07651) [[code]](https://github.com/salesforce/ALBEF)
+3. BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation. [[paper]](https://arxiv.org/abs/2201.12086) [[code]](https://github.com/salesforce/BLIP)
+4. mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality [[paper]](https://arxiv.org/abs/2304.14178) [[code]](https://arxiv.org/abs/2304.14178) [[dome]](https://arxiv.org/abs/2304.14178) [[blog]](https://zhuanlan.zhihu.com/p/625631667)
+5. BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models [[code]](https://link.zhihu.com/?target=https%3A//github.com/salesforce/LAVIS/tree/main/projects/blip2)
+6. Language Is Not All You Need: Aligning Perception with Language Models [[code]](https://link.zhihu.com/?target=https%3A//github.com/microsoft/unilm)
+7. Versatile Diffusion: Text, Images and Variations All in One Diffusion Model [[code]](https://link.zhihu.com/?target=https%3A//github.com/SHI-Labs/Versatile-Diffusion)
+8. LLaVA: Large Language and Vision Assistant. [[paper]](https://arxiv.org/abs/2304.08485) [[project]](https://llava-vl.github.io/) [[blog]](https://zhuanlan.zhihu.com/p/622907299)
 
 
-## Vision Chat Models
+## Visual Chat Models
 1. MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models. [[paper]](http://arxiv.org/abs/2304.10592) [[code]](https://minigpt-4.github.io/)
 
 
