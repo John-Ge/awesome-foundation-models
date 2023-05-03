@@ -1,4 +1,4 @@
-# awesome-foundation-model-papers
+# Awesome-Foundation-Model-Papers
 
 ![](https://img.shields.io/badge/Papercount-37-green)
 
@@ -13,7 +13,7 @@ Contributions are welcome!
 
 
 
-- [awesome-foundation-model-papers](#awesome-foundation-model-papers)
+- [Awesome-Foundation-Model-Papers](#awesome-foundation-model-papers)
 - [Computer Vision](#computer-vision)
   - [Pretraining](#pretraining)
   - [Generation](#generation)
@@ -63,6 +63,8 @@ Contributions are welcome!
 
 ## Pretraining
 
+1. GPT-3: Language Models are Few-Shot Learners [[paper]](https://arxiv.org/pdf/2005.14165.pdf)
+
 ## Instruction Tuning
 1. InstructGPT: Training language models to follow instructions with human feedback. [[paper]](https://arxiv.org/pdf/2203.02155.pdf)
 2. RRHF: Rank Responses to Align Language Models with Human Feedback without tears. [[paper]]() [[code]](https://link.zhihu.com/?target=https%3A//github.com/GanjinZero/RRHF) [[blog]](https://zhuanlan.zhihu.com/p/623382893)
@@ -109,7 +111,7 @@ Please cite the repo if you find it useful.
 ```bibtex
 @misc{chunjiang2023tobeawesome,
   author={Chunjiang Ge},
-  title = {awesome foundation models},
+  title = {Awesome-Foundation-Model-Papers},
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
