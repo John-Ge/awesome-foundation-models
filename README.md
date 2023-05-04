@@ -109,6 +109,7 @@ Contributions are welcome!
 6. Language Is Not All You Need: Aligning Perception with Language Models [[code]](https://link.zhihu.com/?target=https%3A//github.com/microsoft/unilm)
 7. Versatile Diffusion: Text, Images and Variations All in One Diffusion Model [[code]](https://link.zhihu.com/?target=https%3A//github.com/SHI-Labs/Versatile-Diffusion)
 8. LLaVA: Large Language and Vision Assistant. [[paper]](https://arxiv.org/abs/2304.08485) [[project]](https://llava-vl.github.io/) [[blog]](https://zhuanlan.zhihu.com/p/622907299)
+9. PaLM-E: An Embodied Multimodal Language Model. [[paper]](https://arxiv.org/abs/2303.03378) [[code]](https://palm-e.github.io/)
 
 
 ## Visual Chat Models
