@@ -1,6 +1,6 @@
 # Awesome-Foundation-Model-Papers
 
-![](https://img.shields.io/badge/Papercount-49-green)
+![](https://img.shields.io/badge/Papercount-50-green)
 
 
 A library of foundation models in computer vision, natural language processing and multi-modal learning. This repo mainly include pretraining methods, foundation models, fine-tuning methods and some projects *etc.*
