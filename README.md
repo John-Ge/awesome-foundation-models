@@ -127,7 +127,7 @@ Contributions are welcome! Anyone interested in this program could send pull req
 
 欢迎大家提交 pull request 来更新这个项目~
 
-![](foundation.png)
+![](assets/foundation.png)
 
 
 # Citation
