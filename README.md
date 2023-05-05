@@ -11,8 +11,6 @@ Contributions are welcome!
 
 欢迎大家为项目贡献！
 
-
-
 - [Awesome-Foundation-Model-Papers](#awesome-foundation-model-papers)
 - [Computer Vision](#computer-vision)
   - [Pretraining](#pretraining)
@@ -26,6 +24,8 @@ Contributions are welcome!
 - [Multi-Modal Learning](#multi-modal-learning)
   - [Pretraining](#pretraining-2)
   - [Visual Chat Models](#visual-chat-models)
+  - [Datasets](#datasets)
+- [Contributions](#contributions)
 - [Citation](#citation)
 
 
@@ -62,8 +62,6 @@ Contributions are welcome!
 11. FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation. [[paper]](https://arxiv.org/pdf/2303.17225.pdf) [[code]](https://arxiv.org/pdf/2303.17225.pdf)
 
 
-
-
 # NLP Foundation Models
 
 ## Pretraining
@@ -88,6 +86,7 @@ Contributions are welcome!
 4. LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention. [[code]](https://github.com/ZrrSkywalker/LLaMA-Adapter) [[paper]](https://arxiv.org/pdf/2303.16199.pdf) [[v2-paper]](https://arxiv.org/pdf/2304.15010.pdf)
 5. Stable Vicuna [[project]](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot)
 6. Koala: A Dialogue Model for Academic Research. [[paper]](https://bair.berkeley.edu/blog/2023/04/03/koala/) [[code]](https://github.com/young-geng/EasyLM)
+7. Open-Assistant. [[project]](https://github.com/LAION-AI/Open-Assistant)
 
 
 ### Chinese Support
@@ -117,6 +116,18 @@ Contributions are welcome!
 1. MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models. [[paper]](http://arxiv.org/abs/2304.10592) [[code]](https://minigpt-4.github.io/)
 
 
+## Datasets
+
+1. DataComp: In search of the next generation of multimodal datasets. [[paper]](https://arxiv.org/pdf/2304.14108.pdf) [[project]](https://www.datacomp.ai.)
+
+
+# Contributions
+
+Contributions are welcome! Anyone interested in this program could send pull requests. 
+
+欢迎大家提交 pull request 来更新这个项目~
+
+![](foundation.png)
 
 
 # Citation
