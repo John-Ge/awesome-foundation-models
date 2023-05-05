@@ -123,9 +123,9 @@ Contributions are welcome!
 
 # Contributions
 
-Contributions are welcome! Anyone interested in this program could send pull requests. 
+Contributions are welcome! Anyone interested in this program could send pull requests. I may list you as a contributor in this repo.
 
-欢迎大家提交 pull request 来更新这个项目~
+欢迎大家提交 pull request 来更新这个项目~我会将你列为项目的贡献者。
 
 ![](assets/foundation.png)
 
