@@ -19,7 +19,7 @@ Contributions are welcome!
 - [NLP Foundation Models](#nlp-foundation-models)
   - [Pretraining](#pretraining-1)
   - [Instruction Tuning](#instruction-tuning)
-  - [Human Chat Foundation Models](#human-chat-foundation-models)
+  - [Chat Models](#chat-models)
     - [Chinese Support](#chinese-support)
 - [Multi-Modal Learning](#multi-modal-learning)
   - [Pretraining](#pretraining-2)
@@ -45,6 +45,7 @@ Contributions are welcome!
 3. Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise. [[paper]](https://arxiv.org/abs/2208.09392) [[code]](https://github.com/arpitbansal297/Cold-Diffusion-Models)
 4. Edit Anything. [[code]](https://github.com/sail-sg/EditAnything)
 5. Scaling up GANs for Text-to-Image Synthesis. [[paper]](https://arxiv.org/abs/2303.05511) 
+6. Scaling Autoregressive Models for Content-Rich Text-to-Image Generation. [[paper]](https://arxiv.org/abs/2206.10789) [[project]](https://arxiv.org/abs/2206.10789)
 
 
 ## Unified Architecture for Vision
@@ -60,6 +61,7 @@ Contributions are welcome!
 9. OneFormer: One Transformer to Rule Universal Image Segmentation. [[paper]](https://arxiv.org/abs/2211.06220) [[code]](https://github.com/SHI-Labs/OneFormer)
 10. A Simple Framework for Open-Vocabulary Segmentation and Detection. [[paper]](https://arxiv.org/pdf/2303.08131.pdf) [[code]](https://github.com/IDEA-Research/OpenSeeD)
 11. FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation. [[paper]](https://arxiv.org/pdf/2303.17225.pdf) [[code]](https://arxiv.org/pdf/2303.17225.pdf)
+12. Pix2seq: A language modeling framework for object detection. [[v1-paper]](https://arxiv.org/abs/2109.10852) [[v2-paper]](https://openreview.net/pdf?id=tjFaqsSK2I3) [[code]](https://github.com/google-research/pix2seq)
 
 
 # NLP Foundation Models
@@ -78,7 +80,7 @@ Contributions are welcome!
 2. RRHF: Rank Responses to Align Language Models with Human Feedback without tears. [[paper]]() [[code]](https://link.zhihu.com/?target=https%3A//github.com/GanjinZero/RRHF) [[blog]](https://zhuanlan.zhihu.com/p/623382893)
 3. LLaVA: Large Language and Vision Assistant. [[paper]](https://arxiv.org/abs/2304.08485) [[project]](https://llava-vl.github.io/) [[blog]](https://zhuanlan.zhihu.com/p/622907299)
 
-## Human Chat Foundation Models
+## Chat Models
 
 1. Stanford Alpaca: An Instruction-following LLaMA Model. [[code]](https://github.com/tatsu-lab/stanford_alpaca)
 2. Alpaca LoRA. [[code]](https://github.com/tloen/alpaca-lora)
@@ -87,6 +89,7 @@ Contributions are welcome!
 5. Stable Vicuna [[project]](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot)
 6. Koala: A Dialogue Model for Academic Research. [[paper]](https://bair.berkeley.edu/blog/2023/04/03/koala/) [[code]](https://github.com/young-geng/EasyLM)
 7. Open-Assistant. [[project]](https://github.com/LAION-AI/Open-Assistant)
+8. GPT44ALL. [[code]](https://github.com/nomic-ai/gpt4all) [[demo]](https://gpt4all.io/index.html)
 
 
 ### Chinese Support
