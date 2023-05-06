@@ -1,6 +1,6 @@
 # Awesome-Foundation-Model-Papers
 
-![](https://img.shields.io/badge/Papercount-50-green)
+![](https://img.shields.io/badge/Papercount-62-green)
 
 
 A library of foundation models in computer vision, natural language processing and multi-modal learning. This repo mainly include pretraining methods, foundation models, fine-tuning methods and some projects *etc.*
@@ -33,19 +33,20 @@ Contributions are welcome!
 
 ## Pretraining
 
-1. EVA: Visual Representation Fantasies from BAAI. [[01-paper]](https://arxiv.org/abs/2211.07636) [[02-paper]](https://arxiv.org/abs/2303.11331) [[code]](https://github.com/baaivision/EVA)
-2. Scaling Vision Transformers. [[paper]](https://arxiv.org/abs/2302.05442) [[code]](https://github.com/google-research/big_vision)
-3. Scaling Vision Transformers to 22 Billion Parameters. [[paper]](https://arxiv.org/abs/2302.05442)
-4. Segment Anything. [[paper]](https://ai.facebook.com/research/publications/segment-anything/) [[code]](https://github.com/facebookresearch/segment-anything) [[project]](https://segment-anything.com/)
-
+1. MAE: Masked Autoencoders Are Scalable Vision Learners. [[paper]](https://arxiv.org/abs/2111.06377) [code](Masked Autoencoders Are Scalable Vision Learners)
+2. EVA: Visual Representation Fantasies from BAAI. [[01-paper]](https://arxiv.org/abs/2211.07636) [[02-paper]](https://arxiv.org/abs/2303.11331) [[code]](https://github.com/baaivision/EVA)
+3. Scaling Vision Transformers. [[paper]](https://arxiv.org/abs/2302.05442) [[code]](https://github.com/google-research/big_vision)
+4.  Scaling Vision Transformers to 22 Billion Parameters. [[paper]](https://arxiv.org/abs/2302.05442)
+5.  Segment Anything. [[paper]](https://ai.facebook.com/research/publications/segment-anything/) [[code]](https://github.com/facebookresearch/segment-anything) [[project]](https://segment-anything.com/)
+6.  UniFormerV2: Spatiotemporal Learning by Arming Image ViTs with Video UniFormer. [[paper]](https://arxiv.org/abs/2211.09552) [[code]](https://github.com/OpenGVLab/UniFormerV2)
 
 ## Generation
 1. Deep Floyd -IF [[project]](https://deepfloyd.ai/deepfloyd-if)
 2. Consistency Models. [[paper]](https://arxiv.org/abs/2303.01469) [[code]](https://github.com/openai/consistency_models)
 3. Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise. [[paper]](https://arxiv.org/abs/2208.09392) [[code]](https://github.com/arpitbansal297/Cold-Diffusion-Models)
 4. Edit Anything. [[code]](https://github.com/sail-sg/EditAnything)
-5. Scaling up GANs for Text-to-Image Synthesis. [[paper]](https://arxiv.org/abs/2303.05511) 
-6. Scaling Autoregressive Models for Content-Rich Text-to-Image Generation. [[paper]](https://arxiv.org/abs/2206.10789) [[project]](https://arxiv.org/abs/2206.10789)
+5. GigaGAN: Scaling up GANs for Text-to-Image Synthesis. [[paper]](https://arxiv.org/abs/2303.05511) 
+6. Parti: Scaling Autoregressive Models for Content-Rich Text-to-Image Generation. [[paper]](https://arxiv.org/abs/2206.10789) [[project]](https://arxiv.org/abs/2206.10789)
 
 
 ## Unified Architecture for Vision
@@ -54,14 +55,15 @@ Contributions are welcome!
 2. Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks
 3. SegGPT: Segmenting Everything In Context. [[paper]](https://arxiv.org/abs/2304.03284) [[code]](https://github.com/baaivision/painter)
 4. Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection. [[paper]](https://arxiv.org/abs/2303.05499) [[code]](https://github.com/idea-research/groundingdino)
-5. Segment Everything Everywhere All at Once. [[paper]](https://arxiv.org/abs/2304.06718) [[paper]](https://github.com/ux-decoder/segment-everything-everywhere-all-at-once)
+5. SAM: Segment Everything Everywhere All at Once. [[paper]](https://arxiv.org/abs/2304.06718) [[paper]](https://github.com/ux-decoder/segment-everything-everywhere-all-at-once)
 6. X-Decoder: Generalized Decoding for Pixel, Image, and Language. [[paper]](https://arxiv.org/pdf/2212.11270.pdf) [[code]](https://github.com/microsoft/X-Decoder)
 7. Unicorn 🦄 : Towards Grand Unification of Object Tracking. [[paper]](https://arxiv.org/abs/2207.07078) [[code]](https://github.com/MasterBin-IIAU/Unicorn)
-8. Universal Instance Perception as Object Discovery and Retrieval. [[paper]](https://arxiv.org/abs/2303.06674) [[code]](https://github.com/MasterBin-IIAU/UNINEXT)
+8. UniNeXt: Universal Instance Perception as Object Discovery and Retrieval. [[paper]](https://arxiv.org/abs/2303.06674) [[code]](https://github.com/MasterBin-IIAU/UNINEXT)
 9. OneFormer: One Transformer to Rule Universal Image Segmentation. [[paper]](https://arxiv.org/abs/2211.06220) [[code]](https://github.com/SHI-Labs/OneFormer)
-10. A Simple Framework for Open-Vocabulary Segmentation and Detection. [[paper]](https://arxiv.org/pdf/2303.08131.pdf) [[code]](https://github.com/IDEA-Research/OpenSeeD)
+10. OpenSeeD: A Simple Framework for Open-Vocabulary Segmentation and Detection. [[paper]](https://arxiv.org/pdf/2303.08131.pdf) [[code]](https://github.com/IDEA-Research/OpenSeeD)
 11. FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation. [[paper]](https://arxiv.org/pdf/2303.17225.pdf) [[code]](https://arxiv.org/pdf/2303.17225.pdf)
 12. Pix2seq: A language modeling framework for object detection. [[v1-paper]](https://arxiv.org/abs/2109.10852) [[v2-paper]](https://openreview.net/pdf?id=tjFaqsSK2I3) [[code]](https://github.com/google-research/pix2seq)
+13. TaskPrompter: Spatial-Channel Multi-Task Prompting for Dense Scene Understanding. [[paper]](https://openreview.net/forum?id=-CwPopPJda) [[supplementary]](https://arxiv.org/pdf/2304.00971.pdf) [[code]](https://github.com/prismformore/Multi-Task-Transformer)
 
 
 # NLP Foundation Models
@@ -74,6 +76,7 @@ Contributions are welcome!
 4. GPT-4. [[paper]](https://arxiv.org/abs/2303.08774)
 5. LLaMA: Open and Efficient Foundation Language Models. [[paper]](https://arxiv.org/abs/2302.13971v1) [[code]](https://github.com/facebookresearch/llama)
 6. Pythia: Interpreting Autoregressive Transformers Across Time and Scale. [[paper]](https://arxiv.org/pdf/2304.01373.pdf) [[code]](https://github.com/EleutherAI/pythia)
+7. PaLM： Scaling Language Modeling with Pathways. [[paper]](https://arxiv.org/abs/2204.02311)
 
 ## Instruction Tuning
 1. InstructGPT: Training language models to follow instructions with human feedback. [[paper]](https://arxiv.org/pdf/2203.02155.pdf)
@@ -104,15 +107,16 @@ Contributions are welcome!
 # Multi-Modal Learning
 
 ## Pretraining
-1. Learning Transferable Visual Models From Natural Language Supervision. [[paper]](https://arxiv.org/abs/2103.00020) [[code]](https://github.com/OpenAI/CLIP)
-2. Align before Fuse: Vision and Language Representation Learning with Momentum Distillation. [[paper]](https://arxiv.org/abs/2107.07651) [[code]](https://github.com/salesforce/ALBEF)
+1. CLIP: Learning Transferable Visual Models From Natural Language Supervision. [[paper]](https://arxiv.org/abs/2103.00020) [[code]](https://github.com/OpenAI/CLIP)
+2. ALBEF: Align before Fuse: Vision and Language Representation Learning with Momentum Distillation. [[paper]](https://arxiv.org/abs/2107.07651) [[code]](https://github.com/salesforce/ALBEF)
 3. BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation. [[paper]](https://arxiv.org/abs/2201.12086) [[code]](https://github.com/salesforce/BLIP)
 4. mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality [[paper]](https://arxiv.org/abs/2304.14178) [[code]](https://arxiv.org/abs/2304.14178) [[dome]](https://arxiv.org/abs/2304.14178) [[blog]](https://zhuanlan.zhihu.com/p/625631667)
 5. BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models [[code]](https://link.zhihu.com/?target=https%3A//github.com/salesforce/LAVIS/tree/main/projects/blip2)
-6. Language Is Not All You Need: Aligning Perception with Language Models [[code]](https://link.zhihu.com/?target=https%3A//github.com/microsoft/unilm)
+6. Kosmos-1: Language Is Not All You Need: Aligning Perception with Language Models. [[paper]](https://arxiv.org/abs/2302.14045) [[code]](https://github.com/microsoft/unilm)
 7. Versatile Diffusion: Text, Images and Variations All in One Diffusion Model [[code]](https://link.zhihu.com/?target=https%3A//github.com/SHI-Labs/Versatile-Diffusion)
 8. LLaVA: Large Language and Vision Assistant. [[paper]](https://arxiv.org/abs/2304.08485) [[project]](https://llava-vl.github.io/) [[blog]](https://zhuanlan.zhihu.com/p/622907299)
 9. PaLM-E: An Embodied Multimodal Language Model. [[paper]](https://arxiv.org/abs/2303.03378) [[code]](https://palm-e.github.io/)
+10. BEiT-3: Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks. [[paper]](https://arxiv.org/abs/2208.10442) 
 
 
 ## Visual Chat Models
