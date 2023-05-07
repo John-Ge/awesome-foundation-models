@@ -83,6 +83,7 @@ Contributions are welcome!
 2. Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback [[paper]](https://arxiv.org/abs/2204.05862) [[code]](https://github.com/anthropics/hh-rlhf)
 3. RRHF: Rank Responses to Align Language Models with Human Feedback without tears. [[paper]]() [[code]](https://link.zhihu.com/?target=https%3A//github.com/GanjinZero/RRHF) [[blog]](https://zhuanlan.zhihu.com/p/623382893)
 4. LLaVA: Large Language and Vision Assistant. [[paper]](https://arxiv.org/abs/2304.08485) [[project]](https://llava-vl.github.io/) [[blog]](https://zhuanlan.zhihu.com/p/622907299)
+5. Principle-Driven Self-Alignment of Language Modelsfrom Scratch with Minimal Human Supervision. [[paper]](https://arxiv.org/abs/2305.03047) [[code]](https://mitibmdemos.draco.res.ibm.com/dromedary)
 
 ## Chat Models
 
