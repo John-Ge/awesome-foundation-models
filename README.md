@@ -87,6 +87,7 @@ Contributions are welcome!
 5. Principle-Driven Self-Alignment of Language Modelsfrom Scratch with Minimal Human Supervision. [[paper]](https://arxiv.org/abs/2305.03047) [[code]](https://mitibmdemos.draco.res.ibm.com/dromedary)
 6. Scaling instruction-finetuned language models. [[paper]](https://arxiv.org/pdf/2210.11416.pdf) 
 7. Otter: A Multi-Modal Model with In-Context Instruction Tuning. [[paper]](https://arxiv.org/pdf/2305.03726.pdf) [[code]](https://github.com/Luodian/Otter)
+8. Self-Instruct: Aligning Language Model with Self Generated Instructions. [[paper]](https://arxiv.org/abs/2212.10560) [[code]](https://github.com/yizhongw/self-instruct)
 
 ## Chat Models
 
