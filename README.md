@@ -77,6 +77,7 @@ Contributions are welcome!
 5. LLaMA: Open and Efficient Foundation Language Models. [[paper]](https://arxiv.org/abs/2302.13971v1) [[code]](https://github.com/facebookresearch/llama)
 6. Pythia: Interpreting Autoregressive Transformers Across Time and Scale. [[paper]](https://arxiv.org/pdf/2304.01373.pdf) [[code]](https://github.com/EleutherAI/pythia)
 7. PaLM： Scaling Language Modeling with Pathways. [[paper]](https://arxiv.org/abs/2204.02311)
+8. RedPajama. [[blog]](https://link.zhihu.com/?target=https%3A//www.together.xyz/blog/redpajama-models-v1)
 
 ## Instruction Tuning
 1. InstructGPT: Training language models to follow instructions with human feedback. [[paper]](https://arxiv.org/pdf/2203.02155.pdf) [[blog]](https://openai.com/research/instruction-following)
@@ -85,6 +86,7 @@ Contributions are welcome!
 4. LLaVA: Large Language and Vision Assistant. [[paper]](https://arxiv.org/abs/2304.08485) [[project]](https://llava-vl.github.io/) [[blog]](https://zhuanlan.zhihu.com/p/622907299)
 5. Principle-Driven Self-Alignment of Language Modelsfrom Scratch with Minimal Human Supervision. [[paper]](https://arxiv.org/abs/2305.03047) [[code]](https://mitibmdemos.draco.res.ibm.com/dromedary)
 6. Scaling instruction-finetuned language models. [[paper]](https://arxiv.org/pdf/2210.11416.pdf) 
+7. Otter: A Multi-Modal Model with In-Context Instruction Tuning. [[paper]](https://arxiv.org/pdf/2305.03726.pdf) [[code]](https://github.com/Luodian/Otter)
 
 ## Chat Models
 
