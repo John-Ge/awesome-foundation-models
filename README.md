@@ -78,6 +78,9 @@ Contributions are welcome!
 6. Pythia: Interpreting Autoregressive Transformers Across Time and Scale. [[paper]](https://arxiv.org/pdf/2304.01373.pdf) [[code]](https://github.com/EleutherAI/pythia)
 7. PaLM： Scaling Language Modeling with Pathways. [[paper]](https://arxiv.org/abs/2204.02311)
 8. RedPajama. [[blog]](https://link.zhihu.com/?target=https%3A//www.together.xyz/blog/redpajama-models-v1)
+9. LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instruction [[paper]](https://arxiv.org/pdf/2304.14402v1.pdf) [[code]](https://github.com/mbzuai-nlp/LaMini-LM)
+10. WizardLM: An Instruction-following LLM Using Evol-Instruct. [[paper]](https://arxiv.org/abs/2304.12244) [[code]](https://github.com/nlpxucan/WizardLM)
+11. MPT. [[blog]](https://www.mosaicml.com/blog/mpt-7b) [[code]](https://github.com/mosaicml/llm-foundry/)
 
 ## Instruction Tuning
 1. InstructGPT: Training language models to follow instructions with human feedback. [[paper]](https://arxiv.org/pdf/2203.02155.pdf) [[blog]](https://openai.com/research/instruction-following)
