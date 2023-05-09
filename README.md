@@ -127,6 +127,7 @@ Contributions are welcome!
 8. LLaVA: Large Language and Vision Assistant. [[paper]](https://arxiv.org/abs/2304.08485) [[project]](https://llava-vl.github.io/) [[blog]](https://zhuanlan.zhihu.com/p/622907299)
 9. PaLM-E: An Embodied Multimodal Language Model. [[paper]](https://arxiv.org/abs/2303.03378) [[code]](https://palm-e.github.io/)
 10. BEiT-3: Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks. [[paper]](https://arxiv.org/abs/2208.10442) 
+11. X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages. [[paper]](https://arxiv.org/abs/2305.04160) 
 
 
 ## Visual Chat Models
