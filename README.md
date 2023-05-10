@@ -134,7 +134,7 @@ Contributions are welcome!
 ## Visual Chat Models
 1. MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models. [[paper]](http://arxiv.org/abs/2304.10592) [[code]](https://minigpt-4.github.io/)
 2. LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention. [[code]](https://github.com/ZrrSkywalker/LLaMA-Adapter) [[paper]](https://arxiv.org/pdf/2303.16199.pdf) [[v2-paper]](https://arxiv.org/pdf/2304.15010.pdf)
-3. MMGPT. [[paper]](https://arxiv.org/abs/2305.04790) [[code]](https://github.com/open-mmlab/Multimodal-GPT)
+3. MMGPT：MultiModal-GPT: A Vision and Language Model for Dialogue with Humans. [[paper]](https://arxiv.org/abs/2305.04790) [[code]](https://github.com/open-mmlab/Multimodal-GPT)
 4. InternChat: Solving Vision-Centric Tasks by Interacting with Chatbots Beyond Language [[paper]](https://arxiv.org/pdf/2305.05662.pdf) [[code]](https://github.com/OpenGVLab/InternChat)
 
 
