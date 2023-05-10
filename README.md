@@ -128,12 +128,15 @@ Contributions are welcome!
 9. PaLM-E: An Embodied Multimodal Language Model. [[paper]](https://arxiv.org/abs/2303.03378) [[code]](https://palm-e.github.io/)
 10. BEiT-3: Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks. [[paper]](https://arxiv.org/abs/2208.10442) 
 11. X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages. [[paper]](https://arxiv.org/abs/2305.04160) 
+12. IMAGEBIND: One Embedding Space To Bind Them All. [[paper]](https://arxiv.org/pdf/2305.05665.pdf) [[code]](https://facebookresearch.github.io/ImageBind)
 
 
 ## Visual Chat Models
 1. MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models. [[paper]](http://arxiv.org/abs/2304.10592) [[code]](https://minigpt-4.github.io/)
 2. LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention. [[code]](https://github.com/ZrrSkywalker/LLaMA-Adapter) [[paper]](https://arxiv.org/pdf/2303.16199.pdf) [[v2-paper]](https://arxiv.org/pdf/2304.15010.pdf)
 3. MMGPT. [[paper]](https://arxiv.org/abs/2305.04790) [[code]](https://github.com/open-mmlab/Multimodal-GPT)
+4. InternChat: Solving Vision-Centric Tasks by Interacting with Chatbots Beyond Language [[paper]](https://arxiv.org/pdf/2305.05662.pdf) [[code]](https://github.com/OpenGVLab/InternChat)
+
 
 
 ## Datasets
