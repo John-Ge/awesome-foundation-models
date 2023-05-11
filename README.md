@@ -129,6 +129,7 @@ Contributions are welcome!
 10. BEiT-3: Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks. [[paper]](https://arxiv.org/abs/2208.10442) 
 11. X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages. [[paper]](https://arxiv.org/abs/2305.04160) 
 12. IMAGEBIND: One Embedding Space To Bind Them All. [[paper]](https://arxiv.org/pdf/2305.05665.pdf) [[code]](https://facebookresearch.github.io/ImageBind)
+13. PaLM 2. [[paper]](https://ai.google/static/documents/palm2techreport.pdf)
 
 
 ## Visual Chat Models
