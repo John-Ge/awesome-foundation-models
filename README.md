@@ -130,6 +130,7 @@ Contributions are welcome!
 11. X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages. [[paper]](https://arxiv.org/abs/2305.04160) 
 12. IMAGEBIND: One Embedding Space To Bind Them All. [[paper]](https://arxiv.org/pdf/2305.05665.pdf) [[code]](https://facebookresearch.github.io/ImageBind)
 13. PaLM 2. [[paper]](https://ai.google/static/documents/palm2techreport.pdf)
+14. InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning. [[paper]](http://arxiv.org/abs/2305.06500)
 
 
 ## Visual Chat Models
