@@ -1,6 +1,6 @@
 # Awesome-Foundation-Model-Papers
 
-![](https://img.shields.io/badge/Papercount-77-green)
+![](https://img.shields.io/badge/Papercount-80-green)
 
 
 A library of foundation models in computer vision, natural language processing and multi-modal learning. This repo mainly include pretraining methods, foundation models, fine-tuning methods and some projects *etc.*
@@ -81,6 +81,7 @@ Contributions are welcome!
 9. LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instruction [[paper]](https://arxiv.org/pdf/2304.14402v1.pdf) [[code]](https://github.com/mbzuai-nlp/LaMini-LM)
 10. WizardLM: An Instruction-following LLM Using Evol-Instruct. [[paper]](https://arxiv.org/abs/2304.12244) [[code]](https://github.com/nlpxucan/WizardLM)
 11. MPT. [[blog]](https://www.mosaicml.com/blog/mpt-7b) [[code]](https://github.com/mosaicml/llm-foundry/)
+12. BiLLa: A Bilingual LLaMA with Enhanced Reasoning Ability. [[paper]](https://github.com/Neutralzz/BiLLa)
 
 ## Instruction Tuning
 1. InstructGPT: Training language models to follow instructions with human feedback. [[paper]](https://arxiv.org/pdf/2203.02155.pdf) [[blog]](https://openai.com/research/instruction-following)
