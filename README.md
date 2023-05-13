@@ -64,6 +64,7 @@ Contributions are welcome!
 11. FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation. [[paper]](https://arxiv.org/pdf/2303.17225.pdf) [[code]](https://arxiv.org/pdf/2303.17225.pdf)
 12. Pix2seq: A language modeling framework for object detection. [[v1-paper]](https://arxiv.org/abs/2109.10852) [[v2-paper]](https://openreview.net/pdf?id=tjFaqsSK2I3) [[code]](https://github.com/google-research/pix2seq)
 13. TaskPrompter: Spatial-Channel Multi-Task Prompting for Dense Scene Understanding. [[paper]](https://openreview.net/forum?id=-CwPopPJda) [[supplementary]](https://arxiv.org/pdf/2304.00971.pdf) [[code]](https://github.com/prismformore/Multi-Task-Transformer)
+14. Musketeer (All for One, and One for All): A Generalist Vision-Language Model with Task Explanation Prompts. [[paper]](https://arxiv.org/pdf/2305.07019.pdf)
 
 
 # NLP Foundation Models
