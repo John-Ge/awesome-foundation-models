@@ -1,6 +1,6 @@
 # Awesome-Foundation-Model-Papers
 
-![](https://img.shields.io/badge/Papercount-80-green)
+![](https://img.shields.io/badge/Papercount-100+-green)
 
 A library of foundation models in computer vision, natural language processing and multi-modal learning. This repo mainly include pretraining methods, foundation models, fine-tuning methods and some projects *etc.*
 
@@ -64,6 +64,7 @@ Contributions are welcome!
 12. Pix2seq: A language modeling framework for object detection. [[v1-paper]](https://arxiv.org/abs/2109.10852) [[v2-paper]](https://openreview.net/pdf?id=tjFaqsSK2I3) [[code]](https://github.com/google-research/pix2seq)
 13. TaskPrompter: Spatial-Channel Multi-Task Prompting for Dense Scene Understanding. [[paper]](https://openreview.net/forum?id=-CwPopPJda) [[supplementary]](https://arxiv.org/pdf/2304.00971.pdf) [[code]](https://github.com/prismformore/Multi-Task-Transformer)
 14. Musketeer (All for One, and One for All): A Generalist Vision-Language Model with Task Explanation Prompts. [[paper]](https://arxiv.org/pdf/2305.07019.pdf)
+15. Fast Segment Anything. [[paper]](http://arxiv.org/abs/2306.12156) [[code]](http://arxiv.org/abs/2306.12156)
 
 # NLP Foundation Models
 
@@ -92,6 +93,7 @@ Contributions are welcome!
 7.  Orca: Progressive Learning from Complex Explanation Traces of GPT-4. [[paper]](https://arxiv.org/abs/2306.02707)
 8.  WizardLM: An Instruction-following LLM Using Evol-Instruct. [[paper]](https://arxiv.org/abs/2304.12244) [[code]](https://github.com/nlpxucan/WizardLM)
 9.  QLoRA: Efficient Finetuning of Quantized LLMs. [[paper]](https://arxiv.org/abs/2305.14314) [[code]](https://github.com/artidoro/qlora)
+10. Instruction Tuning with GPT-4. [[paper]](https://arxiv.org/abs/2304.03277) [[code]](https://arxiv.org/abs/2304.03277)
 
 ## RLHF
 
@@ -108,9 +110,9 @@ Contributions are welcome!
 6. Koala: A Dialogue Model for Academic Research. [[paper]](https://bair.berkeley.edu/blog/2023/04/03/koala/) [[code]](https://github.com/young-geng/EasyLM)
 7. Open-Assistant. [[project]](https://github.com/LAION-AI/Open-Assistant)
 8. GPT4ALL. [[code]](https://github.com/nomic-ai/gpt4all) [[demo]](https://gpt4all.io/index.html)
-9. Instruction Tuning with GPT-4. [[paper]](https://arxiv.org/abs/2304.03277) [[code]](https://arxiv.org/abs/2304.03277)
-10. ChatPLUG: Open-Domain Generative Dialogue System with Internet-Augmented Instruction Tuning for Digital Human. [[paper]](https://arxiv.org/abs/2304.07849) [[code]](https://github.com/X-PLUG/ChatPLUG)
-11. CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society. [[paper]](https://arxiv.org/abs/2303.17760) [[code]](https://github.com/camel-ai/camel)
+9.  ChatPLUG: Open-Domain Generative Dialogue System with Internet-Augmented Instruction Tuning for Digital Human. [[paper]](https://arxiv.org/abs/2304.07849) [[code]](https://github.com/X-PLUG/ChatPLUG)
+10. CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society. [[paper]](https://arxiv.org/abs/2303.17760) [[code]](https://github.com/camel-ai/camel)
+11. MPTChat. [[blog]](https://www.mosaicml.com/blog/mpt-7b) [[code]](https://github.com/mosaicml/llm-foundry/)
 
 
 ### Chinese Support
@@ -151,6 +153,8 @@ Contributions are welcome!
 4. InternChat: Solving Vision-Centric Tasks by Interacting with Chatbots Beyond Language [[paper]](https://arxiv.org/pdf/2305.05662.pdf) [[code]](https://github.com/OpenGVLab/InternChat)
 5. VideoChat : Chat-Centric Video Understanding. [[paper]](https://arxiv.org/pdf/2305.06355.pdf)
 6. Otter: A Multi-Modal Model with In-Context Instruction Tuning. [[paper]](https://arxiv.org/pdf/2305.03726.pdf) [[code]](https://github.com/Luodian/Otter)
+7. DetGPT: Detect What You Need via Reasoning.  [[paper]](http://arxiv.org/abs/2306.09224)
+8. VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks. [[paper]](https://arxiv.org/abs/2305.11175)
 
 ## Datasets
 
