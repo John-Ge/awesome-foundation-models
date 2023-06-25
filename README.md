@@ -6,7 +6,7 @@ A library of foundation models in computer vision, natural language processing a
 
 Contributions are welcome!
 
-本项目是一个视觉，语言和多模态基础模型的仓库。主要包括预训练方法，基础模型，微调方法和成熟的项目等。
+本项目是一个视觉，语言和多模态基础模型的仓库。主要包括预训练方法，基础模型，微调方法和成熟的项目等。未来计划整理一些可以使用的开源模型和数据资源。
 
 欢迎大家为项目贡献！
 
