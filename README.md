@@ -2,7 +2,6 @@
 
 ![](https://img.shields.io/badge/Papercount-80-green)
 
-
 A library of foundation models in computer vision, natural language processing and multi-modal learning. This repo mainly include pretraining methods, foundation models, fine-tuning methods and some projects *etc.*
 
 Contributions are welcome!
@@ -31,7 +30,6 @@ Contributions are welcome!
 
 
 # Computer Vision
-
 ## Pretraining
 
 1. MAE: Masked Autoencoders Are Scalable Vision Learners. [[paper]](https://arxiv.org/abs/2111.06377) [code](Masked Autoencoders Are Scalable Vision Learners)
@@ -42,13 +40,13 @@ Contributions are welcome!
 6.  UniFormerV2: Spatiotemporal Learning by Arming Image ViTs with Video UniFormer. [[paper]](https://arxiv.org/abs/2211.09552) [[code]](https://github.com/OpenGVLab/UniFormerV2)
 
 ## Generation
+
 1. Deep Floyd -IF [[project]](https://deepfloyd.ai/deepfloyd-if)
 2. Consistency Models. [[paper]](https://arxiv.org/abs/2303.01469) [[code]](https://github.com/openai/consistency_models)
 3. Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise. [[paper]](https://arxiv.org/abs/2208.09392) [[code]](https://github.com/arpitbansal297/Cold-Diffusion-Models)
 4. Edit Anything. [[code]](https://github.com/sail-sg/EditAnything)
 5. GigaGAN: Scaling up GANs for Text-to-Image Synthesis. [[paper]](https://arxiv.org/abs/2303.05511) 
 6. Parti: Scaling Autoregressive Models for Content-Rich Text-to-Image Generation. [[paper]](https://arxiv.org/abs/2206.10789) [[project]](https://arxiv.org/abs/2206.10789)
-
 
 ## Unified Architecture for Vision
 
@@ -66,7 +64,6 @@ Contributions are welcome!
 12. Pix2seq: A language modeling framework for object detection. [[v1-paper]](https://arxiv.org/abs/2109.10852) [[v2-paper]](https://openreview.net/pdf?id=tjFaqsSK2I3) [[code]](https://github.com/google-research/pix2seq)
 13. TaskPrompter: Spatial-Channel Multi-Task Prompting for Dense Scene Understanding. [[paper]](https://openreview.net/forum?id=-CwPopPJda) [[supplementary]](https://arxiv.org/pdf/2304.00971.pdf) [[code]](https://github.com/prismformore/Multi-Task-Transformer)
 14. Musketeer (All for One, and One for All): A Generalist Vision-Language Model with Task Explanation Prompts. [[paper]](https://arxiv.org/pdf/2305.07019.pdf)
-
 
 # NLP Foundation Models
 
@@ -97,8 +94,8 @@ Contributions are welcome!
 
 ## RLHF
 
-1. RRHF: Rank Responses to Align Language Models with Human Feedback without tears. [[paper]](https://arxiv.org/pdf/2304.05302v1.pdf) [[code]](https://github.com/GanjinZero/RRHF) [[blog]](https://zhuanlan.zhihu.com/p/623382893)
-2. Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback [[paper]](https://arxiv.org/abs/2204.05862) [[code]](https://github.com/anthropics/hh-rlhf)
+1. Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback [[paper]](https://arxiv.org/abs/2204.05862) [[code]](https://github.com/anthropics/hh-rlhf)
+2. RRHF: Rank Responses to Align Language Models with Human Feedback without tears. [[paper]](https://arxiv.org/pdf/2304.05302v1.pdf) [[code]](https://github.com/GanjinZero/RRHF) [[blog]](https://zhuanlan.zhihu.com/p/623382893)
 
 ## Chat Models
 
@@ -116,6 +113,7 @@ Contributions are welcome!
 
 
 ### Chinese Support
+
 1. MOSS [[code]](https://github.com/OpenLMLab/MOSS)
 2. Luotuo [[code]](https://github.com/LC1332/Luotuo-Chinese-LLM)
 3. Linly [[code]](https://github.com/CVI-SZU/Linly) [[blog]](https://zhuanlan.zhihu.com/p/625786369)
@@ -127,6 +125,7 @@ Contributions are welcome!
 # Multi-Modal Learning
 
 ## Pretraining
+
 1. CLIP: Learning Transferable Visual Models From Natural Language Supervision. [[paper]](https://arxiv.org/abs/2103.00020) [[code]](https://github.com/OpenAI/CLIP)
 2. ALBEF: Align before Fuse: Vision and Language Representation Learning with Momentum Distillation. [[paper]](https://arxiv.org/abs/2107.07651) [[code]](https://github.com/salesforce/ALBEF)
 3. BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation. [[paper]](https://arxiv.org/abs/2201.12086) [[code]](https://github.com/salesforce/BLIP)
@@ -144,6 +143,7 @@ Contributions are welcome!
 
 
 ## Visual Chat Models
+
 1. MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models. [[paper]](http://arxiv.org/abs/2304.10592) [[code]](https://minigpt-4.github.io/)
 2. LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention. [[code]](https://github.com/ZrrSkywalker/LLaMA-Adapter) [[paper]](https://arxiv.org/pdf/2303.16199.pdf) [[v2-paper]](https://arxiv.org/pdf/2304.15010.pdf)
 3. MMGPT：MultiModal-GPT: A Vision and Language Model for Dialogue with Humans. [[paper]](https://arxiv.org/abs/2305.04790) [[code]](https://github.com/open-mmlab/Multimodal-GPT)
@@ -151,12 +151,9 @@ Contributions are welcome!
 5. VideoChat : Chat-Centric Video Understanding. [[paper]](https://arxiv.org/pdf/2305.06355.pdf)
 6. Otter: A Multi-Modal Model with In-Context Instruction Tuning. [[paper]](https://arxiv.org/pdf/2305.03726.pdf) [[code]](https://github.com/Luodian/Otter)
 
-
-
 ## Datasets
 
 1. DataComp: In search of the next generation of multimodal datasets. [[paper]](https://arxiv.org/pdf/2304.14108.pdf) [[project]](https://www.datacomp.ai.)
-
 
 # Contributions
 
@@ -165,7 +162,6 @@ Contributions are welcome! Anyone interested in this program could send pull req
 欢迎大家提交 pull request 来更新这个项目~我会将你列为项目的贡献者。
 
 ![](assets/foundation.png)
-
 
 # Citation
 
