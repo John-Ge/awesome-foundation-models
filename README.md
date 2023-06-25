@@ -19,6 +19,7 @@ Contributions are welcome!
 - [NLP Foundation Models](#nlp-foundation-models)
   - [Pretraining](#pretraining-1)
   - [Instruction Tuning](#instruction-tuning)
+  - [RLHF](#rlhf)
   - [Chat Models](#chat-models)
     - [Chinese Support](#chinese-support)
 - [Multi-Modal Learning](#multi-modal-learning)
@@ -80,19 +81,24 @@ Contributions are welcome!
 7. PaLM： Scaling Language Modeling with Pathways. [[paper]](https://arxiv.org/abs/2204.02311)
 8. RedPajama. [[blog]](https://link.zhihu.com/?target=https%3A//www.together.xyz/blog/redpajama-models-v1)
 9. LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instruction [[paper]](https://arxiv.org/pdf/2304.14402v1.pdf) [[code]](https://github.com/mbzuai-nlp/LaMini-LM)
-10. WizardLM: An Instruction-following LLM Using Evol-Instruct. [[paper]](https://arxiv.org/abs/2304.12244) [[code]](https://github.com/nlpxucan/WizardLM)
-11. MPT. [[blog]](https://www.mosaicml.com/blog/mpt-7b) [[code]](https://github.com/mosaicml/llm-foundry/)
-12. BiLLa: A Bilingual LLaMA with Enhanced Reasoning Ability. [[paper]](https://github.com/Neutralzz/BiLLa)
+10. MPT. [[blog]](https://www.mosaicml.com/blog/mpt-7b) [[code]](https://github.com/mosaicml/llm-foundry/)
+11. BiLLa: A Bilingual LLaMA with Enhanced Reasoning Ability. [[paper]](https://github.com/Neutralzz/BiLLa)
 
 ## Instruction Tuning
+
 1. InstructGPT: Training language models to follow instructions with human feedback. [[paper]](https://arxiv.org/pdf/2203.02155.pdf) [[blog]](https://openai.com/research/instruction-following)
+2. LLaVA: Large Language and Vision Assistant. [[paper]](https://arxiv.org/abs/2304.08485) [[project]](https://llava-vl.github.io/) [[blog]](https://zhuanlan.zhihu.com/p/622907299)
+3. Principle-Driven Self-Alignment of Language Modelsfrom Scratch with Minimal Human Supervision. [[paper]](https://arxiv.org/abs/2305.03047) [[code]](https://mitibmdemos.draco.res.ibm.com/dromedary)
+4. Scaling instruction-finetuned language models. [[paper]](https://arxiv.org/pdf/2210.11416.pdf) 
+5. Self-Instruct: Aligning Language Model with Self Generated Instructions. [[paper]](https://arxiv.org/abs/2212.10560) [[code]](https://github.com/yizhongw/self-instruct)
+6. LIMA: Less Is More for Alignment. [[paper]](https://arxiv.org/pdf/2305.11206.pdf)
+7.  Orca: Progressive Learning from Complex Explanation Traces of GPT-4. [[paper]](https://arxiv.org/abs/2306.02707)
+8.  WizardLM: An Instruction-following LLM Using Evol-Instruct. [[paper]](https://arxiv.org/abs/2304.12244) [[code]](https://github.com/nlpxucan/WizardLM)
+
+## RLHF
+
+1. RRHF: Rank Responses to Align Language Models with Human Feedback without tears. [[paper]](https://arxiv.org/pdf/2304.05302v1.pdf) [[code]](https://github.com/GanjinZero/RRHF) [[blog]](https://zhuanlan.zhihu.com/p/623382893)
 2. Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback [[paper]](https://arxiv.org/abs/2204.05862) [[code]](https://github.com/anthropics/hh-rlhf)
-3. RRHF: Rank Responses to Align Language Models with Human Feedback without tears. [[paper]](https://arxiv.org/pdf/2304.05302v1.pdf) [[code]](https://github.com/GanjinZero/RRHF) [[blog]](https://zhuanlan.zhihu.com/p/623382893)
-4. LLaVA: Large Language and Vision Assistant. [[paper]](https://arxiv.org/abs/2304.08485) [[project]](https://llava-vl.github.io/) [[blog]](https://zhuanlan.zhihu.com/p/622907299)
-5. Principle-Driven Self-Alignment of Language Modelsfrom Scratch with Minimal Human Supervision. [[paper]](https://arxiv.org/abs/2305.03047) [[code]](https://mitibmdemos.draco.res.ibm.com/dromedary)
-6. Scaling instruction-finetuned language models. [[paper]](https://arxiv.org/pdf/2210.11416.pdf) 
-7. Otter: A Multi-Modal Model with In-Context Instruction Tuning. [[paper]](https://arxiv.org/pdf/2305.03726.pdf) [[code]](https://github.com/Luodian/Otter)
-8. Self-Instruct: Aligning Language Model with Self Generated Instructions. [[paper]](https://arxiv.org/abs/2212.10560) [[code]](https://github.com/yizhongw/self-instruct)
 
 ## Chat Models
 
@@ -105,6 +111,8 @@ Contributions are welcome!
 7. Open-Assistant. [[project]](https://github.com/LAION-AI/Open-Assistant)
 8. GPT4ALL. [[code]](https://github.com/nomic-ai/gpt4all) [[demo]](https://gpt4all.io/index.html)
 9. Instruction Tuning with GPT-4. [[paper]](https://arxiv.org/abs/2304.03277) [[code]](https://arxiv.org/abs/2304.03277)
+10. ChatPLUG: Open-Domain Generative Dialogue System with Internet-Augmented Instruction Tuning for Digital Human. [[paper]](https://arxiv.org/abs/2304.07849) [[code]](https://github.com/X-PLUG/ChatPLUG)
+11. CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society. [[paper]](https://arxiv.org/abs/2303.17760) [[code]](https://github.com/camel-ai/camel)
 
 
 ### Chinese Support
@@ -141,6 +149,7 @@ Contributions are welcome!
 3. MMGPT：MultiModal-GPT: A Vision and Language Model for Dialogue with Humans. [[paper]](https://arxiv.org/abs/2305.04790) [[code]](https://github.com/open-mmlab/Multimodal-GPT)
 4. InternChat: Solving Vision-Centric Tasks by Interacting with Chatbots Beyond Language [[paper]](https://arxiv.org/pdf/2305.05662.pdf) [[code]](https://github.com/OpenGVLab/InternChat)
 5. VideoChat : Chat-Centric Video Understanding. [[paper]](https://arxiv.org/pdf/2305.06355.pdf)
+6. Otter: A Multi-Modal Model with In-Context Instruction Tuning. [[paper]](https://arxiv.org/pdf/2305.03726.pdf) [[code]](https://github.com/Luodian/Otter)
 
 
 
