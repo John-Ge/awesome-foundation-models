@@ -91,6 +91,7 @@ Contributions are welcome!
 6. LIMA: Less Is More for Alignment. [[paper]](https://arxiv.org/pdf/2305.11206.pdf)
 7.  Orca: Progressive Learning from Complex Explanation Traces of GPT-4. [[paper]](https://arxiv.org/abs/2306.02707)
 8.  WizardLM: An Instruction-following LLM Using Evol-Instruct. [[paper]](https://arxiv.org/abs/2304.12244) [[code]](https://github.com/nlpxucan/WizardLM)
+9.  QLoRA: Efficient Finetuning of Quantized LLMs. [[paper]](https://arxiv.org/abs/2305.14314) [[code]](https://github.com/artidoro/qlora)
 
 ## RLHF
 
