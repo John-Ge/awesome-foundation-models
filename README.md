@@ -28,7 +28,6 @@ Contributions are welcome!
 - [Contributions](#contributions)
 - [Citation](#citation)
 
-
 # Computer Vision
 ## Pretraining
 
@@ -81,24 +80,25 @@ Contributions are welcome!
 9. LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instruction [[paper]](https://arxiv.org/pdf/2304.14402v1.pdf) [[code]](https://github.com/mbzuai-nlp/LaMini-LM)
 10. MPT. [[blog]](https://www.mosaicml.com/blog/mpt-7b) [[code]](https://github.com/mosaicml/llm-foundry/)
 11. BiLLa: A Bilingual LLaMA with Enhanced Reasoning Ability. [[paper]](https://github.com/Neutralzz/BiLLa)
+12. OpenLLaMA: An Open Reproduction of LLaMA. [[code]](https://github.com/openlm-research/open_llama)
 
 ## Instruction Tuning
 
 1. InstructGPT: Training language models to follow instructions with human feedback. [[paper]](https://arxiv.org/pdf/2203.02155.pdf) [[blog]](https://openai.com/research/instruction-following)
-2. LLaVA: Large Language and Vision Assistant. [[paper]](https://arxiv.org/abs/2304.08485) [[project]](https://llava-vl.github.io/) [[blog]](https://zhuanlan.zhihu.com/p/622907299)
-3. Principle-Driven Self-Alignment of Language Modelsfrom Scratch with Minimal Human Supervision. [[paper]](https://arxiv.org/abs/2305.03047) [[code]](https://mitibmdemos.draco.res.ibm.com/dromedary)
-4. Scaling instruction-finetuned language models. [[paper]](https://arxiv.org/pdf/2210.11416.pdf) 
-5. Self-Instruct: Aligning Language Model with Self Generated Instructions. [[paper]](https://arxiv.org/abs/2212.10560) [[code]](https://github.com/yizhongw/self-instruct)
-6. LIMA: Less Is More for Alignment. [[paper]](https://arxiv.org/pdf/2305.11206.pdf)
-7.  Orca: Progressive Learning from Complex Explanation Traces of GPT-4. [[paper]](https://arxiv.org/abs/2306.02707)
-8.  WizardLM: An Instruction-following LLM Using Evol-Instruct. [[paper]](https://arxiv.org/abs/2304.12244) [[code]](https://github.com/nlpxucan/WizardLM)
-9.  QLoRA: Efficient Finetuning of Quantized LLMs. [[paper]](https://arxiv.org/abs/2305.14314) [[code]](https://github.com/artidoro/qlora)
-10. Instruction Tuning with GPT-4. [[paper]](https://arxiv.org/abs/2304.03277) [[code]](https://arxiv.org/abs/2304.03277)
+2. Principle-Driven Self-Alignment of Language Modelsfrom Scratch with Minimal Human Supervision. [[paper]](https://arxiv.org/abs/2305.03047) [[code]](https://mitibmdemos.draco.res.ibm.com/dromedary)
+3. Scaling instruction-finetuned language models. [[paper]](https://arxiv.org/pdf/2210.11416.pdf) 
+4. Self-Instruct: Aligning Language Model with Self Generated Instructions. [[paper]](https://arxiv.org/abs/2212.10560) [[code]](https://github.com/yizhongw/self-instruct)
+5. LIMA: Less Is More for Alignment. [[paper]](https://arxiv.org/pdf/2305.11206.pdf)
+6.  Orca: Progressive Learning from Complex Explanation Traces of GPT-4. [[paper]](https://arxiv.org/abs/2306.02707)
+7.  WizardLM: An Instruction-following LLM Using Evol-Instruct. [[paper]](https://arxiv.org/abs/2304.12244) [[code]](https://github.com/nlpxucan/WizardLM)
+8.  QLoRA: Efficient Finetuning of Quantized LLMs. [[paper]](https://arxiv.org/abs/2305.14314) [[code]](https://github.com/artidoro/qlora)
+9.  Instruction Tuning with GPT-4. [[paper]](https://arxiv.org/abs/2304.03277) [[code]](https://arxiv.org/abs/2304.03277)
 
 ## RLHF
 
 1. Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback [[paper]](https://arxiv.org/abs/2204.05862) [[code]](https://github.com/anthropics/hh-rlhf)
 2. RRHF: Rank Responses to Align Language Models with Human Feedback without tears. [[paper]](https://arxiv.org/pdf/2304.05302v1.pdf) [[code]](https://github.com/GanjinZero/RRHF) [[blog]](https://zhuanlan.zhihu.com/p/623382893)
+3. Beaver. [[code]](https://panda-gpt.github.io/)
 
 ## Chat Models
 
@@ -155,6 +155,9 @@ Contributions are welcome!
 6. Otter: A Multi-Modal Model with In-Context Instruction Tuning. [[paper]](https://arxiv.org/pdf/2305.03726.pdf) [[code]](https://github.com/Luodian/Otter)
 7. DetGPT: Detect What You Need via Reasoning.  [[paper]](http://arxiv.org/abs/2306.09224)
 8. VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks. [[paper]](https://arxiv.org/abs/2305.11175)
+9. LLaVA: Large Language and Vision Assistant. [[paper]](https://arxiv.org/abs/2304.08485) [[project]](https://llava-vl.github.io/) [[blog]](https://zhuanlan.zhihu.com/p/622907299)
+10. VisualGLM. [[code]](https://github.com/THUDM/VisualGLM-6B/tree/main)
+11. PandaGPT: One Model to Instruction-Follow Them All. [[project]](https://panda-gpt.github.io/)
 
 ## Datasets
 
