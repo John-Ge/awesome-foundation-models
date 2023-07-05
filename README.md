@@ -25,6 +25,8 @@ Contributions are welcome!
   - [Pretraining](#pretraining-2)
   - [Visual Chat Models](#visual-chat-models)
   - [Datasets](#datasets)
+  - [Evaluation](#evaluation)
+  - [](#)
 - [Contributions](#contributions)
 - [Citation](#citation)
 
@@ -162,6 +164,19 @@ Contributions are welcome!
 ## Datasets
 
 1. DataComp: In search of the next generation of multimodal datasets. [[paper]](https://arxiv.org/pdf/2304.14108.pdf) [[project]](https://www.datacomp.ai.)
+
+
+## Evaluation
+1. MME. [[paper]](https://arxiv.org/abs/2306.13394)
+2. Multimodal Chatbot Areana. [[demo]](http://vlarena.opengvlab.com/)
+
+
+## 
+
+有一些更有影响力的仓库总结了大模型的相关工作：
+- [NLP] [LLM](https://github.com/RUCAIBox/LLMSurvey/tree/main)
+- [MM] [MLLM](https://github.com/bradyfu/awesome-multimodal-large-language-models)
+
 
 # Contributions
 
