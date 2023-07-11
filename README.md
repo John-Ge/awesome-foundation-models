@@ -83,6 +83,7 @@ Contributions are welcome!
 10. MPT. [[blog]](https://www.mosaicml.com/blog/mpt-7b) [[code]](https://github.com/mosaicml/llm-foundry/)
 11. BiLLa: A Bilingual LLaMA with Enhanced Reasoning Ability. [[paper]](https://github.com/Neutralzz/BiLLa)
 12. OpenLLaMA: An Open Reproduction of LLaMA. [[code]](https://github.com/openlm-research/open_llama)
+13. InternLM. [[code]](https://github.com/InternLM/InternLM)
 
 ## Instruction Tuning
 
@@ -115,6 +116,7 @@ Contributions are welcome!
 9.  ChatPLUG: Open-Domain Generative Dialogue System with Internet-Augmented Instruction Tuning for Digital Human. [[paper]](https://arxiv.org/abs/2304.07849) [[code]](https://github.com/X-PLUG/ChatPLUG)
 10. CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society. [[paper]](https://arxiv.org/abs/2303.17760) [[code]](https://github.com/camel-ai/camel)
 11. MPTChat. [[blog]](https://www.mosaicml.com/blog/mpt-7b) [[code]](https://github.com/mosaicml/llm-foundry/)
+12. ChatGLM2 [[code]](https://github.com/THUDM/ChatGLM2-6B)
 
 
 ### Chinese Support
