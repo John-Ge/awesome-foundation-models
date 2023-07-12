@@ -163,6 +163,7 @@ Contributions are welcome!
 9. LLaVA: Large Language and Vision Assistant. [[paper]](https://arxiv.org/abs/2304.08485) [[project]](https://llava-vl.github.io/) [[blog]](https://zhuanlan.zhihu.com/p/622907299)
 10. VisualGLM. [[code]](https://github.com/THUDM/VisualGLM-6B/tree/main)
 11. PandaGPT: One Model to Instruction-Follow Them All. [[project]](https://panda-gpt.github.io/)
+12. ChatSpot. [[demo]](https://link.zhihu.com/?target=https%3A//chatspot.streamlit.app/)
 
 ## Datasets
 
