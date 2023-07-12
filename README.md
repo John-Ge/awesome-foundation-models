@@ -102,6 +102,7 @@ Contributions are welcome!
 1. Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback [[paper]](https://arxiv.org/abs/2204.05862) [[code]](https://github.com/anthropics/hh-rlhf)
 2. RRHF: Rank Responses to Align Language Models with Human Feedback without tears. [[paper]](https://arxiv.org/pdf/2304.05302v1.pdf) [[code]](https://github.com/GanjinZero/RRHF) [[blog]](https://zhuanlan.zhihu.com/p/623382893)
 3. Beaver. [[code]](https://panda-gpt.github.io/)
+4. MOSS-RLHF. [[code]](https://openlmlab.github.io/MOSS-RLHF/)
 
 ## Chat Models
 
